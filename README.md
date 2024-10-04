@@ -4,7 +4,7 @@ En este repositorio tendremos acceso a una investigacion acerca del factoraje fi
 [A continuacion tenemos la investigacion](https://cris2740.github.io/factoraje-financiero/)
 
 
-y aqui la presentacion generada en cuarto [presentacion](
+y aqui la presentacion generada en cuarto [presentacion](https://github.com/cris2740/factoraje-financiero/blob/main/Presentacion_Factoraje_Financiero.html)
 
 
 
